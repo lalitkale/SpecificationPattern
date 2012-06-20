@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Presentations/!svn/ver/61/DimeCasts/SpecificationPattern/SpecificationPattern/Framework
+END
+SpecificationPattern.cd
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Presentations/!svn/ver/62/DimeCasts/SpecificationPattern/SpecificationPattern/Framework/SpecificationPattern.cd
+END
+Specification.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Presentations/!svn/ver/61/DimeCasts/SpecificationPattern/SpecificationPattern/Framework/Specification.cs
+END
+NotSpecification.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Presentations/!svn/ver/61/DimeCasts/SpecificationPattern/SpecificationPattern/Framework/NotSpecification.cs
+END
+OrSpecification.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Presentations/!svn/ver/61/DimeCasts/SpecificationPattern/SpecificationPattern/Framework/OrSpecification.cs
+END
+AndSpecification.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Presentations/!svn/ver/61/DimeCasts/SpecificationPattern/SpecificationPattern/Framework/AndSpecification.cs
+END
+CompositeSpecification.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Presentations/!svn/ver/61/DimeCasts/SpecificationPattern/SpecificationPattern/Framework/CompositeSpecification.cs
+END
+ISpecification.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Presentations/!svn/ver/61/DimeCasts/SpecificationPattern/SpecificationPattern/Framework/ISpecification.cs
+END

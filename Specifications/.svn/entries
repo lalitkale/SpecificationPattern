@@ -1,0 +1,76 @@
+8
+
+dir
+63
+https://svn2.assembla.com/svn/Presentations/DimeCasts/SpecificationPattern/SpecificationPattern/Specifications
+https://svn2.assembla.com/svn/Presentations
+
+
+
+2009-08-21T04:29:00.911536Z
+63
+timbarcz
+
+
+svn:special svn:externals svn:needs-lock
+
+RushOrderSpecification.cs
+file
+
+
+
+
+2009-08-20T04:33:25.335000Z
+e35499ebcd32617864380b86d14668b3
+2009-08-21T04:29:00.911536Z
+63
+timbarcz
+
+HazardousMaterialSpecification.cs
+file
+
+
+
+
+2009-08-18T11:17:11.387200Z
+6758f556d537807a4e4b3850ecffcfe1
+2009-08-21T04:29:00.911536Z
+63
+timbarcz
+
+DomesticOrderSpecification.cs
+file
+
+
+
+
+2009-08-18T11:17:11.380200Z
+fb0fedeeff1d289c243c1c25e950325e
+2009-08-21T04:29:00.911536Z
+63
+timbarcz
+
+IsInStockSpecification.cs
+file
+
+
+
+
+2009-08-18T11:17:10.231200Z
+dfad0511d25928c7ecaf0cce54363560
+2009-08-21T04:29:00.911536Z
+63
+timbarcz
+
+HighValueOrderSpecification.cs
+file
+
+
+
+
+2009-08-18T11:17:11.394200Z
+ee9de5f4927969a9426becf0c1ffced8
+2009-08-21T04:29:00.911536Z
+63
+timbarcz
+
